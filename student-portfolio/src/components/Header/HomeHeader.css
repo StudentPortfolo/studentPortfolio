@@ -1,0 +1,12 @@
+.nav-container {
+  display: flex;
+}
+
+.nav-container li {
+  padding: 10px;
+  margin: 2px;
+  list-style: none;
+  text-decoration: none;
+  color: black;
+  font-size: 20px;
+}
