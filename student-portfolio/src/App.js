@@ -8,9 +8,10 @@ function App() {
       <header className="App-header">
         <HomeHeader />
       </header>
-      <footer className="App-footer">
+
+      {/* <footer className="App-footer">
         <HomeFooter />
-      </footer>
+      </footer> */}
     </div>
   );
 }
